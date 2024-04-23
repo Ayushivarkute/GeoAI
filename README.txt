@@ -1,1 +1,1 @@
-RUN THE main.py file and give arial veiw picture of land.
+Developed a Python-based Convolutional Neural Network (CNN) model for deforestation detection and land cover classification. Incorporated historical data analysis to visualize deforestation rates, presenting results through grayscale predicted images.
